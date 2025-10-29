@@ -3,8 +3,6 @@
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns="https://chris-vasquez28.github.io/cse445_a4/Hotels.xsd"
        xsi:schemaLocation="https://chris-vasquez28.github.io/cse445_a4/Hotels.xsd Hotels.xsd">
-
-	<!-- Hotel 1: Duplicate Phone numbers (Error 5) -->
 	<Hotel Rating="4.5" Number="101">
 		<Name>Grand Palace</Name>
 		<Address>
@@ -17,8 +15,6 @@
 		<Phone>555-123-4567</Phone>
 		<Phone>555-987-6543</Phone>
 	</Hotel>
-
-	<!-- Hotel 2: Missing required attribute Rating (Error 2) -->
 	<Hotel Number="102">
 		<Name>Sunset Inn</Name>
 		<Address>
@@ -29,8 +25,6 @@
 		</Address>
 		<Phone>555-111-2222</Phone>
 	</Hotel>
-
-	<!-- Hotel 3: Missing Phone element (Error 3) -->
 	<Hotel Rating="3.8" Number="103">
 		<Name>Ocean View</Name>
 		<Address>
@@ -40,8 +34,6 @@
 			<Zip>85250</Zip>
 		</Address>
 	</Hotel>
-
-	<!-- Hotel 4: Address element not closed (Error 4) -->
 	<Hotel Rating="4.0" Number="104">
 		<Name>Mountain Lodge</Name>
 		<Address>
@@ -49,11 +41,8 @@
 			<City>Flagstaff</City>
 			<State>AZ</State>
 			<Zip>86001</Zip>
-			<!-- Missing </Address> -->
 			<Phone>555-246-8101</Phone>
 		</Hotel>
-
-	<!-- Hotel 5: Two <Name> elements (Error 5) -->
 	<Hotel Rating="4.2" Number="105">
 		<Name>Riverside Resort</Name>
 		<Name>Riverside Retreat</Name>
@@ -65,8 +54,6 @@
 		</Address>
 		<Phone>555-135-7913</Phone>
 	</Hotel>
-
-	<!-- Hotel 6: Correct hotel, extra for randomness -->
 	<Hotel Rating="4.1" Number="106">
 		<Name>Desert Oasis</Name>
 		<Address>
@@ -77,8 +64,6 @@
 		</Address>
 		<Phone>555-369-1470</Phone>
 	</Hotel>
-
-	<!-- Hotel 7: Correct hotel -->
 	<Hotel Rating="3.9" Number="107">
 		<Name>City Central Inn</Name>
 		<Address>
@@ -89,8 +74,6 @@
 		</Address>
 		<Phone>555-258-9630</Phone>
 	</Hotel>
-
-	<!-- Hotel 8: Correct hotel -->
 	<Hotel Rating="4.6" Number="108">
 		<Name>Airport Suites</Name>
 		<Address>
@@ -102,8 +85,6 @@
 		</Address>
 		<Phone>555-147-2580</Phone>
 	</Hotel>
-
-	<!-- Hotel 9: Correct hotel -->
 	<Hotel Rating="4.1" Number="109">
 		<Name>Lakeside Retreat</Name>
 		<Address>

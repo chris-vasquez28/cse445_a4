@@ -2,11 +2,9 @@
             xmlns="https://chris-vasquez28.github.io/cse445_a4/Hotels.xsd"
             elementFormDefault="qualified"
             attributeFormDefault="unqualified">
-
 	<xsd:annotation>
-		<xsd:documentation xml:lang="en">Hotels Directory Schema</xsd:documentation>
+		<xsd:documentation xml:lang="en">Hotels </xsd:documentation>
 	</xsd:annotation>
-
 	<xsd:element name="Hotels">
 		<xsd:complexType>
 			<xsd:sequence>
@@ -14,7 +12,6 @@
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
-
 	<xsd:complexType name="HotelType">
 		<xsd:sequence>
 			<xsd:element name="Name" type="xsd:string" minOccurs="1"/>
@@ -24,7 +21,6 @@
 		<xsd:attribute name="Rating" type="xsd:decimal" use="required"/>
 		<xsd:attribute name="Number" type="xsd:integer" use="optional"/>
 	</xsd:complexType>
-
 	<xsd:complexType name="AddressType">
 		<xsd:sequence>
 			<xsd:element name="Street" type="xsd:string"/>
@@ -34,7 +30,6 @@
 			<xsd:element name="NearestAirport" type="xsd:string" minOccurs="0"/>
 		</xsd:sequence>
 	</xsd:complexType>
-
 	<xsd:simpleType name="PhoneType">
 		<xsd:restriction base="xsd:string">
 			<xsd:pattern value="\d{3}-\d{3}-\d{4}"/>

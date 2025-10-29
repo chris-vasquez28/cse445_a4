@@ -1,7 +1,6 @@
 ﻿<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns="https://chris-vasquez28.github.io/cse445_a4/Hotels.xsd"
         xsi:schemaLocation="https://chris-vasquez28.github.io/cse445_a4/Hotels.xsd Hotels.xsd">
-
 	<Hotel Rating="4.5" Number="101">
 		<Name>Grand Palace</Name>
 		<Address>
@@ -14,7 +13,6 @@
 		<Phone>555-123-4567</Phone>
 		<Phone>555-987-6543</Phone>
 	</Hotel>
-
 	<Hotel Rating="3.8" Number="102">
 		<Name>Sunset Inn</Name>
 		<Address>
@@ -25,7 +23,6 @@
 		</Address>
 		<Phone>555-111-2222</Phone>
 	</Hotel>
-
 	<Hotel Rating="4.2" Number="103">
 		<Name>Ocean View</Name>
 		<Address>
@@ -37,7 +34,6 @@
 		</Address>
 		<Phone>555-222-3333</Phone>
 	</Hotel>
-
 	<Hotel Rating="3.5" Number="104">
 		<Name>Mountain Lodge</Name>
 		<Address>
@@ -48,7 +44,6 @@
 		</Address>
 		<Phone>555-444-5555</Phone>
 	</Hotel>
-
 	<Hotel Rating="4.0" Number="105">
 		<Name>Riverside Resort</Name>
 		<Address>
@@ -60,7 +55,6 @@
 		<Phone>555-135-7913</Phone>
 		<Phone>555-246-8024</Phone>
 	</Hotel>
-
 	<Hotel Rating="4.3" Number="106">
 		<Name>Desert Oasis</Name>
 		<Address>
@@ -71,7 +65,6 @@
 		</Address>
 		<Phone>555-369-1470</Phone>
 	</Hotel>
-
 	<Hotel Rating="3.9" Number="107">
 		<Name>City Central Inn</Name>
 		<Address>
@@ -82,7 +75,6 @@
 		</Address>
 		<Phone>555-258-9630</Phone>
 	</Hotel>
-
 	<Hotel Rating="4.6" Number="108">
 		<Name>Airport Suites</Name>
 		<Address>
@@ -94,7 +86,6 @@
 		</Address>
 		<Phone>555-147-2580</Phone>
 	</Hotel>
-
 	<Hotel Rating="4.1" Number="109">
 		<Name>Lakeside Retreat</Name>
 		<Address>
@@ -105,7 +96,6 @@
 		</Address>
 		<Phone>555-963-8520</Phone>
 	</Hotel>
-
 	<Hotel Rating="3.7" Number="110">
 		<Name>Historic Inn</Name>
 		<Address>
