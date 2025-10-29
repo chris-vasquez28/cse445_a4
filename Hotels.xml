@@ -26,4 +26,95 @@
 		<Phone>555-111-2222</Phone>
 	</Hotel>
 
+	<Hotel Rating="4.2" Number="103">
+		<Name>Ocean View</Name>
+		<Address>
+			<Street>789 Beach Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85250</Zip>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+		<Phone>555-222-3333</Phone>
+	</Hotel>
+
+	<Hotel Rating="3.5" Number="104">
+		<Name>Mountain Lodge</Name>
+		<Address>
+			<Street>321 Mountain Dr</Street>
+			<City>Flagstaff</City>
+			<State>AZ</State>
+			<Zip>86001</Zip>
+		</Address>
+		<Phone>555-444-5555</Phone>
+	</Hotel>
+
+	<Hotel Rating="4.0" Number="105">
+		<Name>Riverside Resort</Name>
+		<Address>
+			<Street>654 River Rd</Street>
+			<City>Rivertown</City>
+			<State>AZ</State>
+			<Zip>85050</Zip>
+		</Address>
+		<Phone>555-135-7913</Phone>
+		<Phone>555-246-8024</Phone>
+	</Hotel>
+
+	<Hotel Rating="4.3" Number="106">
+		<Name>Desert Oasis</Name>
+		<Address>
+			<Street>987 Cactus Ln</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85255</Zip>
+		</Address>
+		<Phone>555-369-1470</Phone>
+	</Hotel>
+
+	<Hotel Rating="3.9" Number="107">
+		<Name>City Central Inn</Name>
+		<Address>
+			<Street>321 Downtown St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85002</Zip>
+		</Address>
+		<Phone>555-258-9630</Phone>
+	</Hotel>
+
+	<Hotel Rating="4.6" Number="108">
+		<Name>Airport Suites</Name>
+		<Address>
+			<Street>456 Airport Blvd</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85010</Zip>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+		<Phone>555-147-2580</Phone>
+	</Hotel>
+
+	<Hotel Rating="4.1" Number="109">
+		<Name>Lakeside Retreat</Name>
+		<Address>
+			<Street>852 Lakeview Dr</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+		</Address>
+		<Phone>555-963-8520</Phone>
+	</Hotel>
+
+	<Hotel Rating="3.7" Number="110">
+		<Name>Historic Inn</Name>
+		<Address>
+			<Street>741 Old Town Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85251</Zip>
+		</Address>
+		<Phone>555-741-8520</Phone>
+	</Hotel>
+
 </Hotels>
