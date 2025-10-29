@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+	<Hotel Rating="4.5">
+		<Name>Grand Palace</Name>
+		<Phone>555-123-4567</Phone>
+		<Phone>555-987-6543</Phone>
+		<Address NearestAirport="Sky Harbor International">
+			<Number>123</Number>
+			<Street>Main St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85001</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="5.0">
+		<Name>Sea View Resort</Name>
+		<Phone>555-999-0000</Phone>
+		<Address NearestAirport="Miami International">
+			<Number>456</Number>
+			<Street>Ocean Drive</Street>
+			<City>Miami</City>
+			<State>FL</State>
+			<Zip>33101</Zip>
+		</Address>
+	</Hotel>
+
+</Hotels>
