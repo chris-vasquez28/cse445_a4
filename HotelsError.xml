@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotel>
-	<!-- Error 1: Root element should be <Hotels> -->
+
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
@@ -13,10 +13,9 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
+
 	<Hotel>
-		<!-- Error 2: Missing required attribute 'Rating' for a hotel that should have it -->
 		<Name>Hilton Garden Inn</Name>
-		<!-- Error 3: Missing <Phone> -->
 		<Address>
 			<Number>101</Number>
 			<Street>1st Ave</Street>
@@ -25,8 +24,8 @@
 			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
+
 	<Hotel Rating="4.0">
-		<!-- Error 5: Two <Name> tags -->
 		<Name>Hyatt Regency</Name>
 		<Name>Duplicate Name</Name>
 		<Phone>602-888-7890</Phone>
@@ -38,16 +37,77 @@
 			<Zip>85003</Zip>
 		</Address>
 	</Hotel>
+
 	<Hotel Rating="3.6">
 		<Name>DoubleTree</Name>
 		<Phone>623-444-0000</Phone>
 		<Address>
-			<!-- Error 4: No closing tag -->
 			<Number>345</Number>
 			<Street>N Central Ave</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85012</Zip>
-			<!-- Missing </Address> here -->
 		</Hotel>
+
+	<Hotel Rating="Four">
+		<Name>Embassy Suites</Name>
+		<Phone>602-111-2222</Phone>
+		<Address>
+			<Number>289</Number>
+			<Street>E Southern Ave</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85204</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.8">
+		<Name>Holiday Inn</Name>
+		<Phone>602-999-1234</Phone>
+		<Phone>888-777-4321</Phone>
+		<Address>
+			<Number>520</Number>
+			<Street>S Rural Rd</Street>
+			<Cty>Tempe</Cty>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.5">
+		<Name>Fairmont Scottsdale</Name>
+		<Fax>480-333-5679</Fax>
+		<Phone>480-333-5678</Phone>
+		<Address>
+			<Number>7575</Number>
+			<Street>E Princess Dr</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85255</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.9">
+		<Name>Comfort Suites</Name>
+		<Phone>602-123-4567</Phone>
+		<Address>
+			<Number>1625</Number>
+			<Street>S 52nd St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.7">
+		<Name>Residence Inn</Name>
+		<Phone>480-666-9999</Phone>
+		<Address>
+			<Number>6040</Number>
+			<Street>W Bell Rd</Street>
+			<City>Glendale</City>
+			<State>AZ</State>
+			<Zip>85308</Zip>
+		</Address>
+	</Hotel>
+
 </Hotel>
