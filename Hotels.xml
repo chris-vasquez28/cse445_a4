@@ -13,8 +13,8 @@
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.5">
-		<Name>Hilton Garden Inn</Name>
-		<Phone>602-555-1234</Phone>
+		<Name>Hilt Inn</Name>
+		<Phone>123-555-1234</Phone>
 		<Address>
 			<Number>101</Number>
 			<Street>1st Ave</Street>
@@ -24,8 +24,8 @@
 		</Address>
 	</Hotel>
 	<Hotel Rating="2.0">
-		<Name>Hyatt Regency</Name>
-		<Phone>602-881-7890</Phone>
+		<Name>Hyatt</Name>
+		<Phone>621-181-2910</Phone>
 		<Address NearestAirport="Phoenix Sky Harbor">
 			<Number>122</Number>
 			<Street>W Cherokee St</Street>
@@ -48,7 +48,7 @@
 	<Hotel Rating="3.8">
 		<Name>Embassy Suites</Name>
 		<Phone>602-111-2222</Phone>
-		<Address NearestAirport="Mesa Gateway">
+		<Address NearestAirport="Mesa">
 			<Number>289</Number>
 			<Street>E Southern Ave</Street>
 			<City>Mesa</City>
@@ -79,9 +79,9 @@
 			<Zip>85282</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.8">
-		<Name>Fairmont Scottsdale</Name>
-		<Phone>480-333-5678</Phone>
+	<Hotel Rating="4">
+		<Name>Motel</Name>
+		<Phone>444-222-1111</Phone>
 		<Address>
 			<Number>7575</Number>
 			<Street>E Princess Dr</Street>
@@ -91,10 +91,10 @@
 		</Address>
 	</Hotel>
 	<Hotel>
-		<Name>Residence Inn</Name>
-		<Phone>480-666-9999</Phone>
+		<Name>Red Roof</Name>
+		<Phone>111-666-9119</Phone>
 		<Address>
-			<Number>6040</Number>
+			<Number>60</Number>
 			<Street>W Bell Rd</Street>
 			<City>Glendale</City>
 			<State>AZ</State>
@@ -102,14 +102,14 @@
 		</Address>
 	</Hotel>
 	<Hotel Rating="3.9">
-		<Name>Comfort Suites</Name>
-		<Phone>602-123-4567</Phone>
+		<Name>motel 6</Name>
+		<Phone>123-098-8765</Phone>
 		<Address>
-			<Number>1625</Number>
-			<Street>S 52nd St</Street>
+			<Number>15</Number>
+			<Street>S 2nd St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
-			<Zip>85281</Zip>
+			<Zip>85288</Zip>
 		</Address>
 	</Hotel>
 </Hotels>
