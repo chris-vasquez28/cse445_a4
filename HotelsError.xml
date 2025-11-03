@@ -13,7 +13,6 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel>
 		<Name>Hilton Garden Inn</Name>
 		<Address>
@@ -24,7 +23,6 @@
 			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="4.0">
 		<Name>Hyatt Regency</Name>
 		<Name>Duplicate Name</Name>
@@ -37,7 +35,6 @@
 			<Zip>85003</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="3.6">
 		<Name>DoubleTree</Name>
 		<Phone>623-444-0000</Phone>
@@ -48,7 +45,6 @@
 			<State>AZ</State>
 			<Zip>85012</Zip>
 		</Hotel>
-
 	<Hotel Rating="Four">
 		<Name>Embassy Suites</Name>
 		<Phone>602-111-2222</Phone>
@@ -60,7 +56,6 @@
 			<Zip>85204</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="3.8">
 		<Name>Holiday Inn</Name>
 		<Phone>602-999-1234</Phone>
@@ -73,7 +68,6 @@
 			<Zip>85282</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="4.5">
 		<Name>Fairmont Scottsdale</Name>
 		<Fax>480-333-5679</Fax>
@@ -86,7 +80,6 @@
 			<Zip>85255</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="3.9">
 		<Name>Comfort Suites</Name>
 		<Phone>602-123-4567</Phone>
@@ -97,7 +90,6 @@
 			<State>AZ</State>
 		</Address>
 	</Hotel>
-
 	<Hotel Rating="3.7">
 		<Name>Residence Inn</Name>
 		<Phone>480-666-9999</Phone>
